@@ -1,2 +1,3 @@
 # Heart-Attack-Risk-Predictor-with-Eval-Machine-Learning
-![HEART ATTACK](![gettyimages-506476770-1024x1024](https://github.com/Victory-Onumaku/Heart-Attack-Risk-Predictor-with-Eval-Machine-Learning/assets/91481737/47324415-543b-4b20-8bce-74c83ca5b214)
+(![Heart Attack Cardiac Arrest](https://github.com/Victory-Onumaku/Heart-Attack-Risk-Predictor-with-Eval-Machine-Learning/assets/91481737/9fde5e86-f474-419e-8723-26e07f923c8f)
+
